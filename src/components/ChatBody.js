@@ -6,6 +6,7 @@ import "./ChatBody.css"
 export default function ChatBody() {
   const [data, setData] = useState({ message:'', dateTime:''})
   const [result, setResult] = useState({});
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
         getData();
@@ -18,9 +19,15 @@ export default function ChatBody() {
         box.scrollTop = box.scrollHeight;
 
         if (snapshot.val() != null)
-        setResult({...snapshot.val()})
+        {
+            setResult({...snapshot.val()})
+            setLoading(false)
+        }
         else
-        setResult({})
+        {
+            setResult({})
+            setLoading(false)
+        }
         })
        
     }
@@ -99,6 +106,10 @@ export default function ChatBody() {
 
                     ))
                     ):(
+                        (loading)?
+                        <div style={{height:"100%",display:"flex", justifyContent:"center", alignItems:"center"}}>
+                             <p>Loading...Please wait !</p>
+                        </div>:
                         <div style={{height:"100%",display:"flex", justifyContent:"center", alignItems:"center"}}>
                              <p>No messages in the conversation.</p>
                         </div>
