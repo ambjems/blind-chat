@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed51f1f6bf277bf11b99ba1dece7ba07",
+    "revision": "4091b4f53a0cbcf36c1a833e33e9b4ad",
     "url": "/blind-chat/index.html"
   },
   {
-    "revision": "61b4c19e6b5cb25350f3",
+    "revision": "a400e0e42b9a5c4df43f",
     "url": "/blind-chat/static/css/main.03f8cf29.chunk.css"
   },
   {
-    "revision": "4c01c3aa5590c687d519",
-    "url": "/blind-chat/static/js/2.2462a9f4.chunk.js"
+    "revision": "c3670e956a4df8953827",
+    "url": "/blind-chat/static/js/2.7a2d7286.chunk.js"
   },
   {
     "revision": "78aa0676509153305bde072ed1e9cb1c",
-    "url": "/blind-chat/static/js/2.2462a9f4.chunk.js.LICENSE.txt"
+    "url": "/blind-chat/static/js/2.7a2d7286.chunk.js.LICENSE.txt"
   },
   {
     "revision": "7f85410814b78a94a8b5",
     "url": "/blind-chat/static/js/3.5a5cef09.chunk.js"
   },
   {
-    "revision": "61b4c19e6b5cb25350f3",
-    "url": "/blind-chat/static/js/main.d52f7a50.chunk.js"
+    "revision": "a400e0e42b9a5c4df43f",
+    "url": "/blind-chat/static/js/main.be8d7fc5.chunk.js"
   },
   {
     "revision": "ca6cec7ee0aa5614bd56",

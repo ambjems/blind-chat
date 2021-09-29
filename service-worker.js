@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blind-chat/precache-manifest.2cf1b89912d84d470966f495182b4bbf.js"
+  "/blind-chat/precache-manifest.6a8174f575c8ec11efeac43f9ae9fe6a.js"
 );
 
 self.addEventListener('message', (event) => {
