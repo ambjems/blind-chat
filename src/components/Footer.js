@@ -3,7 +3,7 @@ import firebaseDb from "../firebase";
 
 const onDelete = () => {    
     if (window.confirm('Are you sure to clear all the chats?')) {
-        firebaseDb.child(`chats`).remove();
+        firebaseDb.child(`chats-new`).remove();
     }  
 }
 

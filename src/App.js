@@ -7,7 +7,7 @@ function App() {
     <>
     <Header />
     <ChatBody />
-    <Footer />
+ 
     </>
   );
 }
