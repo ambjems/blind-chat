@@ -41,7 +41,7 @@ export default function ChatBody() {
     let [date,month,year,hour,minute] = [dt.getDate(), dt.getMonth()+1, dt.getFullYear(), dt.getHours(), dt.getMinutes()];
 
     if(date < 10){
-        date = `$0{date}`;
+        date = `0${date}`;
     }
     if(month < 10){
         month = `0${month}`;
