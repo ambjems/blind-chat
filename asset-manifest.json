@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blind-chat/static/css/main.03f8cf29.chunk.css",
-    "main.js": "/blind-chat/static/js/main.f29a7ef5.chunk.js",
-    "main.js.map": "/blind-chat/static/js/main.f29a7ef5.chunk.js.map",
+    "main.js": "/blind-chat/static/js/main.16d7da92.chunk.js",
+    "main.js.map": "/blind-chat/static/js/main.16d7da92.chunk.js.map",
     "runtime-main.js": "/blind-chat/static/js/runtime-main.1890b286.js",
     "runtime-main.js.map": "/blind-chat/static/js/runtime-main.1890b286.js.map",
     "static/js/2.5b254d1f.chunk.js": "/blind-chat/static/js/2.5b254d1f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0a248d23.chunk.js": "/blind-chat/static/js/3.0a248d23.chunk.js",
     "static/js/3.0a248d23.chunk.js.map": "/blind-chat/static/js/3.0a248d23.chunk.js.map",
     "index.html": "/blind-chat/index.html",
-    "precache-manifest.b817fd3c22fd31a2c9d404c5118a331b.js": "/blind-chat/precache-manifest.b817fd3c22fd31a2c9d404c5118a331b.js",
+    "precache-manifest.d45046134d9162cf8773290c6c11b684.js": "/blind-chat/precache-manifest.d45046134d9162cf8773290c6c11b684.js",
     "service-worker.js": "/blind-chat/service-worker.js",
     "static/css/main.03f8cf29.chunk.css.map": "/blind-chat/static/css/main.03f8cf29.chunk.css.map",
     "static/js/2.5b254d1f.chunk.js.LICENSE.txt": "/blind-chat/static/js/2.5b254d1f.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.1890b286.js",
     "static/js/2.5b254d1f.chunk.js",
     "static/css/main.03f8cf29.chunk.css",
-    "static/js/main.f29a7ef5.chunk.js"
+    "static/js/main.16d7da92.chunk.js"
   ]
 }

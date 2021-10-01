@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66af2c0070d99399109bd9ba621e8ab4",
+    "revision": "d8ce4af0581351592be82a3f3ca4a9cf",
     "url": "/blind-chat/index.html"
   },
   {
-    "revision": "dbfe11a668e45343a76f",
+    "revision": "fcb173aa4bbafa2dee34",
     "url": "/blind-chat/static/css/main.03f8cf29.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blind-chat/static/js/3.0a248d23.chunk.js"
   },
   {
-    "revision": "dbfe11a668e45343a76f",
-    "url": "/blind-chat/static/js/main.f29a7ef5.chunk.js"
+    "revision": "fcb173aa4bbafa2dee34",
+    "url": "/blind-chat/static/js/main.16d7da92.chunk.js"
   },
   {
     "revision": "6f54e66bd7276a0f9d56",
